@@ -1,6 +1,6 @@
 # Scaling behavior in the asymmetric quantum Rabi model
 
-## This folder contains all data and code necessary to reproduce the manuscript figures. 
+## This repository includes the datasets and scripts necessary to reproduce the manuscript figures. 
 
 ```latex
 @misc{szs,
