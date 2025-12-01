@@ -1,2 +1,1 @@
-# Scaling_asymmetric_QRM
-The data of the article
+Scaliing_asymmetric_QRM
