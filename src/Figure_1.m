@@ -352,7 +352,9 @@ d = -R.*h/sqrt(2);
  xtickformat('%.0f')
  
  cb = colorbar;
- colormap('jet');
+ % colormap('jet');
+ % colormap('parula');
+ colormap(slanCM('bwr'));
  caxis([-1,1]);
  cb.YTick = [-1, 0, 1];
  cb.YTickLabel = {'-1','0','1'};
