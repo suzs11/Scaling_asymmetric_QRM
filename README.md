@@ -10,6 +10,7 @@
 Scaling_asymmetric_QRM/
 ├── data             # This repository includes the data for generating Figures 2 to 5. 
 ├── fig              # The scripts for the figure generation
+├── LICENSE
 ├── README.md
 └── src
 
